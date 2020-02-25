@@ -38,8 +38,4 @@ Screenshot:
 
 ![alt text](https://raw.githubusercontent.com/phpadmin1/medSystem/master/20200225152936_1.jpg)
 
-![alt text](https://raw.githubusercontent.com/phpadmin1/medSystem/master/20200225153120_1.jpg)
-
-![alt text](https://raw.githubusercontent.com/phpadmin1/medSystem/master/20200225154131_1.jpg)
-
 -Showtek PH
