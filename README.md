@@ -13,6 +13,7 @@ This script is made for NEW Update ESX
 **Features**
 
 Automatic Chat Message when the player is Dead blood 0-5% and hurt area is HEAD using /med [id]
+
 **Usage:**
 Any players can do /med [player ID] to check someone’s medical info like where they’ve been hit
 their pulse and blood level as seen below(it also displays the users Character Name.
