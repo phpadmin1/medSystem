@@ -26,12 +26,6 @@ Easy Configs
 Jobs and Timer
 
 
---You can change or add for other whitelisted JOB police , mech and ambulance 
-
-Toggleable Display of a Player's Server ID. 
-
-
-
 Original Script based medSystem
 Credits to Kuzkay
 
