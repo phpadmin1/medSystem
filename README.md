@@ -36,6 +36,9 @@ This purpose also for lazy people
 
 Screenshot: 
 
-![alt text](https://raw.githubusercontent.com/phpadmin1/medSystem/master/20200225152936_1.jpg)
+![screenshot](https://i.imgur.com/zlmlGsp.jpg)
+![screenshot](https://i.imgur.com/qwa7kgq.jpg)
+![screenshot](https://i.imgur.com/oYyMTwG.jpg)
+
 
 -Showtek PH
