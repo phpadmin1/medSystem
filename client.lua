@@ -97,8 +97,8 @@ AddEventHandler('medSystem:near', function(x,y,z, pulse, blood, nameF, nameL, ar
 
 local md = Config.Declared
 
-	--if area == "HEAD" and blood<=5 then
-	if area ~= nil then
+	if area == "HEAD" and blood<=5 then
+	--if area ~= nil then
 		cBlood = blood
 		cPulse = pulse
 		cNameF = nameF
