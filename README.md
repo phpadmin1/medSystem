@@ -33,6 +33,8 @@ Credits to Kuzkay
 
 This purpose also for lazy people
 
+NEW VPS FOR FIVEM
+https://iceline-hosting.com/billing/aff.php?aff=101
 Screenshot: 
 
 ![screenshot](https://i.imgur.com/zlmlGsp.jpg)
