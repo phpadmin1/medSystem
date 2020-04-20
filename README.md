@@ -26,7 +26,7 @@ Easy Configs
 Jobs and Timer
 
 Client.Lua line 115: remove -- to this line to activate chat 
- TriggerEvent('chatMessage', "Eastbound Medical: ", {255,0 , 0}, "^1 "..message..!")
+ TriggerEvent('chatMessage', "Medical Center: ", {255,0 , 0}, "^1 "..message..!")
 
 Original Script based medSystem
 Credits to Kuzkay
